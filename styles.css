@@ -1399,7 +1399,7 @@ footer.site-footer {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: clamp(40px, 6vw, 96px);
-  align-items: start;
+  align-items: stretch;
 }
 
 .level-num-block {
